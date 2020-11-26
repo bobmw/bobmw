@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 Me chamo _Wendell, tenho 24 anos e moro em Campinas (SP), Brasil_. Atualmente estou estudando Desenvolvimento de Software na escola de programação <a href='https://www.betrybe.com/' target ='_blank' >Trybe</a> . Estou no modúlo **Front End** do curso, já aprendi, e sou capaz de aplicar:
 
+
  **HTML** - De forma Semântica e Bem Estruturada.
  
  **CSS** - Utilizando conceitos de responsividade como Mobile First.
@@ -28,4 +29,23 @@ Me chamo _Wendell, tenho 24 anos e moro em Campinas (SP), Brasil_. Atualmente es
 Também gosto muito de  Linux e Softwares de Edição de Imagem e Ilustração. E me divirto fazendo Arte Digital e usando Shell Script para automatizar tarefas do Sistema.
 
 ![Wend3ll GitHub Stats](https://github-readme-stats.vercel.app/api?username=wend3ll-souza&show_icons=true)
+
+
+<a target="_blank" href="https://www.linkedin.com/in/wendell-souza-5b13781a3/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5519987650743">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/w.sou.za/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:wend3llsouza@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a target="_blank" href="https://wend3ll-souza.github.io/portfolio-web/">
+  Site
+</a>
+
 
