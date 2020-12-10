@@ -26,6 +26,8 @@ Me chamo _Wendell, tenho 24 anos e moro em Campinas (SP), Brasil_. Atualmente es
  **JavaScript** - Sites Dinamicos e Interativos.
  
  **Git & GitHub** - Organização e Versionamento.
+
+
 Também gosto muito de  Linux e Softwares de Edição de Imagem e Ilustração. E me divirto fazendo Arte Digital e usando Shell Script para automatizar tarefas do Sistema.
 
 ![Wend3ll GitHub Stats](https://github-readme-stats.vercel.app/api?username=wend3ll-souza&show_icons=true)
