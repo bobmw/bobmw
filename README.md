@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://media4.giphy.com/media/26uflLQb82Qpj7ik8/giphy.gif?cid=ecf05e47cddb4657395a8b2d7bff48b0d874f8c24acb7ccc&rid=giphy.gif)
+<p align="center"><img src="https://media4.giphy.com/media/26uflLQb82Qpj7ik8/giphy.gif?cid=ecf05e47cddb4657395a8b2d7bff48b0d874f8c24acb7ccc&rid=giphy.gif"></p>
 
 Me chamo _Wendell, tenho 24 anos e moro em Campinas (SP), Brasil_. Atualmente estou estudando Desenvolvimento de Software na escola de programação <a href='https://www.betrybe.com/' target ='_blank' >Trybe</a> . Estou no modúlo **Front End** do curso, já aprendi, e sou capaz de aplicar:
 
