@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 </p>
 
 ![Wend3ll GitHub Stats](https://github-readme-stats.vercel.app/api?username=wend3ll-souza&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2 align="center">Contato</h2>
 <p align="center">
  <a target="_blank" href="mailto:wend3llsouza@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
