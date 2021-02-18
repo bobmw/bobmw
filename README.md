@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--
 **wend3ll-souza/wend3ll-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,21 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://media4.giphy.com/media/26uflLQb82Qpj7ik8/giphy.gif?cid=ecf05e47cddb4657395a8b2d7bff48b0d874f8c24acb7ccc&rid=giphy.gif"></p>
+<p align="center"><img width="300" src="https://media4.giphy.com/media/26uflLQb82Qpj7ik8/giphy.gif?cid=ecf05e47cddb4657395a8b2d7bff48b0d874f8c24acb7ccc&rid=giphy.gif"></p>
 
-Me chamo _Wendell, tenho 24 anos e moro em Campinas (SP), Brasil_. Atualmente estou estudando Desenvolvimento de Software na escola de programação <a href='https://www.betrybe.com/' target ='_blank' >Trybe</a> . Estou no modúlo **Front End** do curso, já aprendi, e sou capaz de aplicar:
+<p align="center">Me chamo Wendell, tenho 24 anos e moro em Campinas (SP), Brasil. Estudo Desenvolvimento de Software e sou apaixonado por Tecnologia.</p>
 
-
- **HTML** - De forma Semântica e Bem Estruturada.
- 
- **CSS** - Utilizando conceitos de responsividade como Mobile First.
- 
- **JavaScript** - Sites Dinamicos e Interativos.
- 
- **Git & GitHub** - Organização e Versionamento.
-
-
-Também gosto muito de  Linux e Softwares de Edição de Imagem e Ilustração. E me divirto fazendo [Arte Digital](https://www.behance.net/wend3llsouza) e usando Shell Script para automatizar tarefas do Sistema.
+<p align="center">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
 ![Wend3ll GitHub Stats](https://github-readme-stats.vercel.app/api?username=wend3ll-souza&show_icons=true)
 
