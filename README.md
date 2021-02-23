@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  <a target="_blank" href="mailto:wend3llsouza@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/BM-wendell-souza-5b13781a3/">
+<a target="_blank" href="https://www.linkedin.com/in/bob-wendell-souza-5b13781a3/">
   <img alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5519987650743">
