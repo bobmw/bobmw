@@ -47,9 +47,6 @@ Here are some ideas to get you started:
   <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a target="_blank" href="https://wend3ll-souza.github.io/portfolio-web/">
- Portifolio Web
-</a>
 </p>
 
 
