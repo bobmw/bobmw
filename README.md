@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img width="300" src="https://media4.giphy.com/media/26uflLQb82Qpj7ik8/giphy.gif?cid=ecf05e47cddb4657395a8b2d7bff48b0d874f8c24acb7ccc&rid=giphy.gif"></p>
 
-<p align="center">Me chamo Bob Wendell, tenho 24 anos e moro em Campinas (SP), Brasil.<br>Estudo Desenvolvimento de Software e sou apaixonado por Tecnologia.</p>
+<p align="center">Me chamo Bob Wendell, moro em Campinas (SP), Brasil.<br>Estudo Desenvolvimento de Software e sou apaixonado por Tecnologia.</p>
 
 <h2 align="center">Habilidades</h2>
 <p align="center">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 ![Wend3ll GitHub Stats](https://github-readme-stats.vercel.app/api?username=wend3ll-souza&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wend3ll-souza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Contato</h2>
 <p align="center">
