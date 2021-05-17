@@ -32,8 +32,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-![Wend3ll GitHub Stats](https://github-readme-stats.vercel.app/api?username=wend3ll-souza&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wend3ll-souza&layout=compact)
+![Wend3ll GitHub Stats](https://github-readme-stats.vercel.app/api?username=bob-mw&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bob-mw&layout=compact)
 
 <h2 align="center">Contato</h2>
 <p align="center">
