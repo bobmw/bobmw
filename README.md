@@ -1,10 +1,12 @@
 <p align="center"><img width="300" src="https://media4.giphy.com/media/26uflLQb82Qpj7ik8/giphy.gif?cid=ecf05e47cddb4657395a8b2d7bff48b0d874f8c24acb7ccc&rid=giphy.gif"></p>
 
-<p align="center">
+<h2 align="center">
   Desenvolvedor de Software, criativo e apaixonado por tecnologia.
-</p>
+</h2>
+ <br>
+ <br>
 
-<h2 align="center">Algumas stacks favoritas: </h2>
+<h1 align="center">Algumas stacks favoritas: </h1>
 <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
