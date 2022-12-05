@@ -23,8 +23,8 @@
  <br>
  <br>
 
-![Wend3ll GitHub Stats](https://github-readme-stats.vercel.app/api?username=bob-mw&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bob-mw&layout=compact)
+![Wend3ll GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobmw&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobmw&layout=compact)
 
 <h2 align="center">Contato</h2>
 <p align="center">
