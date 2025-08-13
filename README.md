@@ -22,6 +22,7 @@
 <h1 align="center"> Veja meus pinned projects 📌 </h1>
  <br>
  <br>
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobmw&layout=compact)
 
 <h2 align="center">Contato</h2>
